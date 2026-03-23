@@ -1,0 +1,9 @@
+{
+  "id": "10",
+  "subject": "Review all assets for clarity and facts",
+  "description": "Act as Aristotle reviewer. Check all 4 assets for:\n1. Logical errors\n2. Factual accuracy\n3. AI giveaways (remove bullet points, dashes, patterns)\n4. Content that can be said more crisply\n5. Hook effectiveness (do they compel reading?)\n\nProvide specific edit recommendations.",
+  "activeForm": "Reviewing assets for clarity and factual accuracy",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

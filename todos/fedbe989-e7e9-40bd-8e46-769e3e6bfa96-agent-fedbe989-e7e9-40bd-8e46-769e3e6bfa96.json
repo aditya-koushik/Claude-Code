@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Review and commit Phase1-Consolidated-Requirements.md changes",
+    "status": "completed",
+    "activeForm": "Reviewing and committing Phase1 requirements changes"
+  },
+  {
+    "content": "Push changes to origin/feature/intelligence-agents",
+    "status": "completed",
+    "activeForm": "Pushing changes to remote"
+  },
+  {
+    "content": "Run cg-info-collector agent to generate Governance Gap Report",
+    "status": "completed",
+    "activeForm": "Running corporate governance info collector agent"
+  },
+  {
+    "content": "Collect answers to clarifying questions",
+    "status": "completed",
+    "activeForm": "Collecting answers to governance clarifying questions"
+  },
+  {
+    "content": "Generate initial audit report as of today's date",
+    "status": "completed",
+    "activeForm": "Generating initial Corporate Governance Audit Report"
+  },
+  {
+    "content": "Create session backup for today's work",
+    "status": "completed",
+    "activeForm": "Creating session backup"
+  },
+  {
+    "content": "Create Research Agent to compare against best practices",
+    "status": "pending",
+    "activeForm": "Creating Research Agent for best practices"
+  },
+  {
+    "content": "Create corrective action agents based on research",
+    "status": "pending",
+    "activeForm": "Creating corrective action agents"
+  }
+]

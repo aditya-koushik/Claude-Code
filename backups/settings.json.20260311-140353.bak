@@ -1,0 +1,81 @@
+{
+  "env": {
+    "ANTHROPIC_API_KEY": "364af2d669b946478eb1c0dfa0acd11d.xKddd1CHKEm5lPVH",
+    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+    "ANTHROPIC_MODEL": "glm-5"
+  },
+  "enabledPlugins": {
+    "ralph-loop@claude-plugins-official": false
+  },
+  "security": {
+    "auth": {
+      "selectedType": "browser"
+    },
+    "permissions": {
+      "allow": [
+        "Read(//e/Business/Bit Foundry/**)",
+        "Bash(git clone:*)",
+        "Bash(git config:*)",
+        "Bash(git checkout:*)",
+        "Bash(mkdir:*)",
+        "Bash(git add:*)",
+        "Bash(git commit:*)",
+        "Bash(git push:*)",
+        "Bash(gh pr create:*)",
+        "Bash(winget install:*)",
+        "Bash(where:*)",
+        "Bash(refreshenv:*)",
+        "Bash(gh:*)",
+        "Bash(start https://github.com/bitfoundry-ai/workweaver/pull/7)",
+        "Bash(git fetch:*)",
+        "Bash(git pull:*)",
+        "Bash(start:*)",
+        "Bash(claude update:*)",
+        "Bash(cat:*)",
+        "Bash(dir:*)",
+        "Bash(dir /d:*)",
+        "Bash(cd /d:*)",
+        "Bash(cd d:*)",
+        "WebSearch",
+        "Bash(git merge:*)",
+        "Bash(git reset:*)",
+        "Bash(git rev-parse:*)",
+        "Bash(git rebase:*)",
+        "Bash(git stash:*)",
+        "Bash(wc:*)",
+        "Bash(pdftotext:*)",
+        "Bash(claude tasks:*)",
+        "Bash(python -m pip install:*)",
+        "Bash(pip install:*)",
+        "Bash(uvx:*)",
+        "Bash(python:*)",
+        "Bash(findstr:*)",
+        "Bash(npm install:*)",
+        "Bash(\"C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe\" --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --help)",
+        "Bash(\"C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe\" --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --get-cookie)",
+        "Bash(set:*)",
+        "Bash(timeout:*)",
+        "Bash(cmd /c \"set LINKEDIN_EMAIL=adityakoushik821@gmail.com && set LINKEDIN_PASSWORD=MadhavGovind@2324 && C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --get-cookie\")",
+        "Bash(powershell -Command \"$env:LINKEDIN_EMAIL='adityakoushik821@gmail.com'; $env:LINKEDIN_PASSWORD='MadhavGovind@2324'; & 'C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe' --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --get-cookie\":*)",
+        "Bash(ping:*)",
+        "Bash(\"C:\\\\Users\\\\Windows\\\\temp_linkedin_cookie.bat\")",
+        "Bash(claude config:*)",
+        "Bash(ls:*)",
+        "Bash(\"C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe\" --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --no-lazy-init --log-level INFO)",
+        "Bash(\"C:\\\\Users\\\\Windows\\\\AppData\\\\Roaming\\\\Python\\\\Python314\\\\Scripts\\\\uvx.exe\" --from git+https://github.com/stickerdaniel/linkedin-mcp-server linkedin-mcp-server --cookie \"AQEDARF-Nd8BIR8_AAABm2pUVTMAAAGbjmDZM00AEPVRcIVG-qfcZq1QbhmmtV4jAv4DFD68hZldgVV9h_7li1ZbVASkbB-bh5pkEtzqqlOQeymTzQpUFwB37JBV6JomwUqsGMjuCkdPjoFrGFyUBXL-\" --no-lazy-init --log-level INFO)",
+        "Bash(cmd.exe /c \"C:\\\\Program Files\\\\cursor\\\\resources\\\\app\\\\bin\\\\cursor.cmd\" --list-extensions)",
+        "Bash(node:*)",
+        "Read(//c/Users/Windows/.claude/**)",
+        "Bash(cmd /c \"dir /s /b C:\\\\Users\\\\Windows\\\\.droid 2>nul | findstr /i mcp\")",
+        "Bash(cmd:*)",
+        "Bash(powershell:*)",
+        "Read(//c/Users/Windows/OneDrive/Desktop/Marketing/Hormozi Marketing/$100M Leads/**)",
+        "mcp__web-search-prime__webSearchPrime",
+        "Bash(openclaw:*)"
+      ],
+      "deny": [],
+      "ask": [],
+      "defaultMode": "default"
+    }
+  }
+}

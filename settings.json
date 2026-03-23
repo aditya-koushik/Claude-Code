@@ -1,0 +1,52 @@
+{
+  "model": "opus[1m]",
+  "hooks": {
+    "PostCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '## CRITICAL CONTEXT (Re-injected after compaction)\n- You are assisting the CEO of Bit Foundry AI\n- Content pipeline: 5 LinkedIn + 5 Twitter posts daily\n- NEVER auto-publish - save as DRAFTS only\n- Sub-agents: Krishna (orchestrate) > Agastya (research) > Ved Vyasa (write) > Nakula (review) > Vayu (format) > Sahadeva (publish)\n- Quality gate: minimum 8.0/10 score\n- 25 agents in ~/.claude/agents/, 53 skills in ~/.claude/skills/\n- Memory index at ~/.claude/projects/C--Users-Windows/memory/MEMORY.md'"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '## Session Context\n- Active project: Content pipeline optimization\n- Check MEMORY.md for full context\n- 25 agents available, 53 skills configured\n- Content target: 10 posts/day (5 LinkedIn + 5 Twitter)'"
+          }
+        ]
+      }
+    ]
+  },
+  "effortLevel": "high",
+  "security": {
+    "auth": {
+      "selectedType": "browser"
+    },
+    "permissions": {
+      "allow": [
+        "Bash(*)",
+        "Edit(*)",
+        "Write(*)",
+        "Read(*)",
+        "Grep(*)",
+        "Glob(*)",
+        "WebFetch(*)",
+        "WebSearch",
+        "mcp__playwright__*",
+        "mcp__zai-mcp-server__*",
+        "mcp__claude_ai_AWS_Marketplace__*",
+        "mcp__claude_ai_Play_Sheet_Music__*",
+        "mcp__web-search-prime__webSearchPrime",
+        "mcp__chrome-devtools__*"
+      ],
+      "deny": [],
+      "ask": [],
+      "defaultMode": "dangerouslySkipPermissions"
+    }
+  }
+}

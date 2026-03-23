@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Initialize Claude-Code repo in ~/.claude",
+  "description": "Create .gitignore, init git, add remote, commit all agents/skills/memory/config, push to aditya-koushik/Claude-Code",
+  "activeForm": "Setting up Claude-Code repo",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": []
+}

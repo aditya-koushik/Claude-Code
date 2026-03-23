@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create MCP server structure with create-post tool",
+    "status": "completed",
+    "activeForm": "Creating MCP server structure"
+  },
+  {
+    "content": "Configure server in Claude settings",
+    "status": "completed",
+    "activeForm": "Configuring server settings"
+  },
+  {
+    "content": "Test text-only posting",
+    "status": "in_progress",
+    "activeForm": "Testing text posting"
+  }
+]

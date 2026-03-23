@@ -1,0 +1,83 @@
+# ============================================
+# Claude Code Setup - .gitignore
+# Repo: aditya-koushik/Claude-Code
+# ============================================
+
+# --- SECRETS & CREDENTIALS ---
+.credentials.json
+settings.local.json
+mcp-needs-auth-cache.json
+*.pem
+*.key
+.env
+.env.*
+
+# --- EXTERNAL REPOS (managed separately) ---
+skills/gstack/
+
+# --- EPHEMERAL / SESSION DATA ---
+history.jsonl
+sessions/
+debug/
+telemetry/
+cache/
+paste-cache/
+shell-snapshots/
+file-history/
+stats-cache.json
+ide/
+
+# --- PROJECT SESSION DATA (contains embedded secrets from MCP auth) ---
+# ENTIRE projects/ excluded - session .jsonl files contain OAuth tokens
+# Memory files are tracked separately via explicit git add -f
+projects/
+
+# --- STATSIG / TELEMETRY ---
+statsig/
+
+# --- PLUGINS (can be reinstalled) ---
+plugins/
+
+# --- HEAVY MEDIA FILES ---
+*.wav
+*.m4a
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+*.bmp
+*.ico
+*.tiff
+*.psd
+*.ai
+
+# --- COMPILED BINARIES & LARGE EXECUTABLES ---
+*.exe
+*.dll
+*.so
+*.dylib
+node_modules/
+dist/
+
+# --- BINARY / OFFICE DOCS ---
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+
+# --- OS & EDITOR JUNK ---
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+*.swo
+*~

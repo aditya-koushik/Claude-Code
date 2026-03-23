@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "Plugin 1: Build brand-identity plugin (foundation)",
+  "description": "Custom plugin — Central brand enforcement. Merge CoWork brand-voice partner plugin + writing_style.md + ai_writing_humanizer + banned words + platform rules. Commands: /brand:check, /brand:guidelines. All other plugins depend on this.",
+  "activeForm": "Building brand-identity plugin",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": []
+}

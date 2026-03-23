@@ -1,0 +1,9 @@
+{
+  "id": "6",
+  "subject": "Plugins 5-10: Build remaining merge plugins (sales, engineering, PM, council, legal, ops)",
+  "description": "Build sales (Rama + CoWork), engineering (Arjuna + CoWork), product-management (Ashwatthama + CoWork), business-advisory-council (custom), legal (Bhishma + CoWork), operations (Bhima + CoWork).",
+  "activeForm": "Building merge plugins",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Research Area 1: Legal Compliance & Liability Framework",
+    "status": "in_progress",
+    "activeForm": "Researching Legal Compliance & Liability Framework"
+  },
+  {
+    "content": "Push Compliance folder to GitHub",
+    "status": "completed",
+    "activeForm": "Pushed Compliance folder to GitHub"
+  },
+  {
+    "content": "Create pull request to merge compliance branch to main",
+    "status": "completed",
+    "activeForm": "Pull request ready for review"
+  },
+  {
+    "content": "Research Area 2: Data Protection & Privacy Laws",
+    "status": "pending",
+    "activeForm": "Researching Data Protection & Privacy Laws"
+  },
+  {
+    "content": "Research Area 10: Intellectual Property & Innovation Strategy",
+    "status": "pending",
+    "activeForm": "Researching Intellectual Property & Innovation Strategy"
+  },
+  {
+    "content": "Research Area 11: Ethical AI, Cybersecurity & Sustainability",
+    "status": "pending",
+    "activeForm": "Researching Ethical AI, Cybersecurity & Sustainability"
+  }
+]

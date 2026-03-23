@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Understand Workweaver's business and corporate structure",
+    "status": "completed",
+    "activeForm": "Understanding Workweaver's business and corporate structure"
+  },
+  {
+    "content": "Review MOA & AOA, Trade License, and legal documents",
+    "status": "completed",
+    "activeForm": "Reviewing MOA & AOA, Trade License, and legal documents"
+  },
+  {
+    "content": "Review customer contracts (ToS, Privacy Policy, DPA)",
+    "status": "completed",
+    "activeForm": "Reviewing customer contracts (ToS, Privacy Policy, DPA)"
+  },
+  {
+    "content": "Compile summary of findings and potential governance issues",
+    "status": "completed",
+    "activeForm": "Compiling summary of findings and potential governance issues"
+  },
+  {
+    "content": "Create Corporate Governance Information Collector agent with trade license activities",
+    "status": "completed",
+    "activeForm": "Creating Corporate Governance Information Collector agent"
+  },
+  {
+    "content": "Create session backup for corporate governance audit",
+    "status": "completed",
+    "activeForm": "Creating session backup for corporate governance audit"
+  },
+  {
+    "content": "Run cg-info-collector agent to produce Governance Gap Report (NEXT SESSION)",
+    "status": "pending",
+    "activeForm": "Running cg-info-collector agent to produce Governance Gap Report"
+  },
+  {
+    "content": "Create additional corporate governance agents based on gaps found (NEXT SESSION)",
+    "status": "pending",
+    "activeForm": "Creating additional corporate governance agents based on gaps found"
+  },
+  {
+    "content": "Execute governance improvements and document creation (NEXT SESSION)",
+    "status": "pending",
+    "activeForm": "Executing governance improvements and document creation"
+  }
+]

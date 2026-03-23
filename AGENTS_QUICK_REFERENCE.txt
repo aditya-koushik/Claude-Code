@@ -1,0 +1,242 @@
+═══════════════════════════════════════════════════════════════════════════════
+  BIT FOUNDRY AI - AGENTS QUICK REFERENCE (25 Total Agents)
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTENT PIPELINE AGENTS (6 AGENTS) - Orchestrated by Krishna
+───────────────────────────────────────────────────────────────────────────────
+  /ved-vyasa                         Master Storyteller (8 skills)
+    → Write, create, generate, content, post, article, newsletter
+
+  /agastya                           Research Specialist (6 skills)
+    → Research, investigate, analyze, verify, fact-check
+
+  /nakula                            Quality Gatekeeper (3 skills)
+    → Review, verify, quality, assess, fact-check content
+
+  /vishwakarma                       Master Artisan (2 skills)
+    → Design visuals, infographics, assets, images
+
+  /narada                            Publishing Specialist (4 skills)
+    → Publish, schedule, distribute, share, cross-platform
+
+STRATEGIC COUNCIL AGENTS (4 AGENTS) - Advisory Board
+───────────────────────────────────────────────────────────────────────────────
+  /drona                             Value Architect (3 skills)
+    → Pricing, offers, business models, value injection
+
+  /vidur                             Master Strategist (3 skills)
+    → Strategy, positioning, markets, competition
+
+  /bhishma                           Wise Counselor (3 skills)
+    → Patterns, wisdom, insights, perspective
+
+  /karna                             First Principles Master (3 skills)
+    → Root causes, mechanisms, fundamental analysis
+
+SUPPORTING AGENTS (3 AGENTS) - Specialized Support
+───────────────────────────────────────────────────────────────────────────────
+  /dushyenta                         Creative Brainstormer (4 skills)
+    → Brainstorm, ideate, explore alternatives, creative thinking
+
+  /banasura                          Resourcefulness Gate (3 skills)
+    → Feasibility, constraints, resources, scope
+
+  /ashwatthama                       Signal Aggregator (2 skills)
+    → Patterns, trends, signal synthesis, meta-analysis
+
+DOMAIN EXPERTS (12 AGENTS) - Specialized Roles
+───────────────────────────────────────────────────────────────────────────────
+  /sanjaya                           Market Observer
+    → Market intelligence, competitive analysis, trends
+
+  /brihaspati                        Knowledge Synthesizer
+    → Best practices, methodology, knowledge synthesis
+
+  /sukra                             Financial Strategist
+    → Financial analysis, economics, revenue
+
+  /vayu                              Rapid Executor
+    → Fast execution, action planning, implementation
+
+  /matarisvan                        Infrastructure Specialist
+    → Systems, infrastructure, integration, technical
+
+  /arundhati                         Quality Specialist
+    → Precision QA, details, consistency, verification
+
+  /bhima                             Heavy Processing Agent
+    → Complex analysis, large-scale processing, intensive
+
+  /chitrasena                        Creative Director
+    → Creative vision, artistic direction, design thinking
+
+  /sahadeva                          Data & Analytics
+    → Data analysis, metrics, tracking, insights
+
+  /yudhishthira                      Ethical Governance
+    → Ethics, compliance, governance, integrity
+
+  /rama                              Educational Content
+    → Examples, teaching, narrative, educational
+
+  /duryodhana                        Risk Identifier
+    → Risk analysis, challenges, problem identification
+
+ORCHESTRATOR (1 AGENT) - Master Coordinator
+───────────────────────────────────────────────────────────────────────────────
+  /krishna                           Master Orchestrator (2 skills)
+    → System coordination, agent dispatch, routing, execution logging
+
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTENT PIPELINE WORKFLOW
+═══════════════════════════════════════════════════════════════════════════════
+
+Standard Content Creation Flow:
+  [Raw Idea]
+    ↓
+  /krishna (routes to pipeline)
+    ↓
+  /agastya (research & signals)
+    ↓
+  /ved-vyasa (write & format)
+    ↓
+  /nakula (quality & fact-check)
+    ↓
+  /vishwakarma (create assets)
+    ↓
+  /narada (publish & schedule)
+    ↓
+  [Published Content]
+
+Strategic Decision Flow:
+  [Question]
+    ↓
+  /krishna (convoke council)
+    ↓
+  /agastya (research)
+    ↓
+  Council: /drona, /vidur, /bhishma, /karna (perspectives)
+    ↓
+  /ashwatthama (synthesize patterns)
+    ↓
+  /krishna (final decision)
+    ↓
+  [Strategic Decision]
+
+Enhancement Flow (Apply to Any Content):
+  [Draft Content]
+    ↓
+  /nakula (review & polish)
+    ↓
+  /karna (first principles check)
+    ↓
+  /bhishma (wisdom & patterns)
+    ↓
+  /dushyenta (alternatives & creativity)
+    ↓
+  [Enhanced Content]
+
+═══════════════════════════════════════════════════════════════════════════════
+
+AGENT ACTIVATION BY TASK TYPE
+═══════════════════════════════════════════════════════════════════════════════
+
+WRITING & CONTENT
+  Primary: /ved-vyasa
+  Support: /agastya (research), /nakula (review)
+  Optional: /vishwakarma (visuals)
+
+RESEARCH & ANALYSIS
+  Primary: /agastya
+  Support: /ashwatthama (patterns), /brihaspati (methodology)
+  Optional: /sanjaya (market), /sahadeva (data)
+
+STRATEGIC DECISIONS
+  Primary: /krishna → Council (/drona, /vidur, /bhishma, /karna)
+  Support: /agastya (research), /vidur (market)
+  Optional: /yudhishthira (ethics), /duryodhana (risks)
+
+QUALITY & REVIEW
+  Primary: /nakula
+  Support: /arundhati (precision), /bhishma (patterns)
+  Optional: /yudhishthira (ethics)
+
+CREATIVE & IDEAS
+  Primary: /dushyenta
+  Support: /chitrasena (artistic), /rama (examples)
+  Optional: /bhishma (wisdom)
+
+DESIGN & VISUALS
+  Primary: /vishwakarma
+  Support: /chitrasena (creative), /arundhati (precision)
+  Optional: /matarisvan (integration)
+
+PUBLISHING & DISTRIBUTION
+  Primary: /narada
+  Support: /agastya (trends), /sanjaya (market)
+  Optional: /vayu (speed)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+AGENT CAPABILITIES MATRIX
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTENT CREATION:    ved-vyasa ████████ rama ████ chitrasena ███
+RESEARCH:            agastya █████████ sanjaya ████ brihaspati ███
+QUALITY ASSURANCE:   nakula ████████ arundhati ███ ashwatthama ██
+STRATEGY:            vidur ████████ drona ███████ karna ███████
+CREATIVE:            dushyenta ███████ chitrasena ████ rama ███
+ANALYSIS:            sahadeva ███████ karna ████ ashwatthama ██
+PUBLISHING:          narada ███████ vayu █████ matarisvan ███
+GOVERNANCE:          yudhishthira ██████ bhishma ████ duryodhana ███
+
+═══════════════════════════════════════════════════════════════════════════════
+
+QUICK COMMANDS
+═══════════════════════════════════════════════════════════════════════════════
+
+  /agents                            List all 25 agents
+  /[agent-id]                        Invoke specific agent
+  /skills                            List all 47 skills
+
+EXAMPLES
+  /ved-vyasa
+  Write a LinkedIn post about Bit Foundry AI's positioning
+
+  /agastya
+  Research top AI voice agent competitors in 2026
+
+  /krishna
+  Coordinate a content creation task for our new feature
+
+CONFIGURATION FILES
+  ~/.claude/AGENT_REGISTRY.md              Full agent directory
+  ~/.claude/AGENTS_QUICK_REFERENCE.txt     This file
+  ~/.claude/AGENT_SKILL_MAPPING.md         Skill assignments
+  ~/.claude/agents/[agent-id]/AGENT.md     Agent configuration
+
+═══════════════════════════════════════════════════════════════════════════════
+
+AGENT CATEGORIES
+═══════════════════════════════════════════════════════════════════════════════
+
+By Function:
+  • Pipeline:       ved-vyasa, agastya, nakula, vishwakarma, narada
+  • Council:        drona, vidur, bhishma, karna
+  • Supporting:     dushyenta, banasura, ashwatthama
+  • Experts:        sanjaya, brihaspati, sukra, vayu, matarisvan, arundhati,
+                    bhima, chitrasena, sahadeva, yudhishthira, rama, duryodhana
+
+By Skill Level:
+  • Advanced (8+ skills):     ved-vyasa
+  • Senior (4-6 skills):      agastya, narada, dushyenta
+  • Specialist (2-3 skills):  nakula, vishwakarma, drona, vidur, bhishma,
+                             karna, banasura, ashwatthama, krishna
+  • Expert (focused role):    sanjaya, brihaspati, sukra, vayu, matarisvan,
+                             arundhati, bhima, chitrasena, sahadeva,
+                             yudhishthira, rama, duryodhana
+
+═══════════════════════════════════════════════════════════════════════════════
+
+LATEST UPDATE: 2026-03-12 | STATUS: ✅ PRODUCTION READY | AGENTS: 25/25

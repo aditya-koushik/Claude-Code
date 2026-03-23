@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Change password on LinkedIn",
+    "status": "completed",
+    "activeForm": "Changing LinkedIn password"
+  },
+  {
+    "content": "Enable 2FA on LinkedIn",
+    "status": "pending",
+    "activeForm": "Enabling 2FA on LinkedIn"
+  },
+  {
+    "content": "Set up Bitwarden password manager",
+    "status": "completed",
+    "activeForm": "Setting up Bitwarden"
+  },
+  {
+    "content": "Create priority list of accounts to secure",
+    "status": "completed",
+    "activeForm": "Creating priority account list"
+  },
+  {
+    "content": "Secure Gmail account",
+    "status": "in_progress",
+    "activeForm": "Securing Gmail"
+  },
+  {
+    "content": "Enable 2FA on Gmail",
+    "status": "pending",
+    "activeForm": "Enabling 2FA on Gmail"
+  },
+  {
+    "content": "Review Gmail account activity",
+    "status": "pending",
+    "activeForm": "Reviewing Gmail security"
+  }
+]

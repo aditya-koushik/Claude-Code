@@ -1,0 +1,664 @@
+{
+  "numStartups": 144,
+  "installMethod": "global",
+  "autoUpdates": true,
+  "customApiKeyResponses": {
+    "approved": [],
+    "rejected": [
+      "11d.xKddd1CHKEm5lPVH",
+      "f27.rgmEHyOQ3JdJj1fd",
+      "b14.tgqps1y2coz7x9RX"
+    ]
+  },
+  "tipsHistory": {
+    "new-user-warmup": 8,
+    "plan-mode-for-complex-tasks": 139,
+    "terminal-setup": 139,
+    "memory-command": 141,
+    "theme-command": 124,
+    "status-line": 129,
+    "prompt-queue": 3,
+    "enter-to-steer-in-relatime": 124,
+    "todo-list": 124,
+    "# for memory": 3,
+    "install-github-app": 139,
+    "drag-and-drop-images": 141,
+    "double-esc-code-restore": 141,
+    "continue": 143,
+    "shift-tab": 143,
+    "image-paste": 124,
+    "tab-toggle-thinking": 3,
+    "ultrathink-keyword": 44,
+    "stickers-command": 45,
+    "default-permission-mode-config": 134,
+    "install-slack-app": 141,
+    "config-thinking-mode": 36,
+    "btw-side-question": 36,
+    "custom-agents": 143,
+    "desktop-app": 143,
+    "web-app": 143,
+    "mobile-app": 143,
+    "permissions": 141,
+    "rename-conversation": 131,
+    "custom-commands": 131,
+    "git-worktrees": 137,
+    "agent-flag": 132,
+    "ide-upsell-external-terminal": 126,
+    "feedback-command": 129
+  },
+  "promptQueueUseCount": 83,
+  "cachedStatsigGates": {
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false,
+    "tengu_migrate_ignore_patterns": false,
+    "tengu_halloween": false,
+    "tengu_vscode_review_upsell": false,
+    "tengu_log_1p_events": false,
+    "tengu_enable_versioned_plugins": false,
+    "tengu_web_tasks": true,
+    "tengu_prompt_suggestion": true,
+    "tengu_year_end_2025_campaign_promo": false,
+    "tengu_streaming_tool_execution2": false,
+    "tengu_session_memory": false
+  },
+  "cachedDynamicConfigs": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    },
+    "tengu-top-of-feed-tip": {
+      "tip": "",
+      "color": ""
+    }
+  },
+  "cachedGrowthBookFeatures": {
+    "tengu_mcp_tool_search": true,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false,
+    "tengu_thinkback": false,
+    "tengu_sumi": true,
+    "tengu_c4w_usage_limit_notifications_enabled": true,
+    "tengu_react_vulnerability_warning": false,
+    "tengu_ant_attribution_header_new": true,
+    "tengu_accept_with_feedback": true,
+    "strawberry_granite_flag": "N/A",
+    "persimmon_marble_flag": "N/A",
+    "tengu_prompt_suggestion": true,
+    "tengu_tool_result_persistence": false,
+    "doorbell_bottle": "inherit",
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 10000,
+      "maxExportBatchSize": 400,
+      "maxQueueSize": 8192
+    },
+    "tengu_scratch": false,
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_event_sampling_config": {},
+    "tengu-top-of-feed-tip": {
+      "tip": "",
+      "color": ""
+    },
+    "tengu_post_compact_survey": false,
+    "tengu_streaming_tool_execution2": true,
+    "tengu_permission_explainer": true,
+    "tengu_pid_based_version_locking": true,
+    "tengu_vscode_review_upsell": false,
+    "tengu_vscode_onboarding": false,
+    "enhanced_telemetry_beta": false,
+    "tengu_code_diff_cli": true,
+    "tengu_bash_haiku_prefetch": true,
+    "tengu_keybinding_customization": false,
+    "tengu_claudeai_mcp_connectors": true,
+    "tengu_session_memory": false,
+    "tengu_sm_compact": false,
+    "tengu_compact_streaming_retry": false,
+    "tengu_attribution_header": true,
+    "tengu_brass_pebble": false,
+    "tengu_cache_plum_violet": true,
+    "tengu_scarf_coffee": false,
+    "tengu_keybinding_customization_release": true,
+    "tengu_pr_status_cli": true,
+    "tengu_marble_kite": false,
+    "tengu_kv7_prompt_sort": false,
+    "tengu_cork_m4q": true,
+    "tengu_file_write_optimization": true,
+    "tengu_compact_cache_prefix": true,
+    "tengu_plum_vx3": true,
+    "tengu_marble_anvil": true,
+    "tengu_coral_fern": false,
+    "tengu_system_prompt_global_cache": true,
+    "tengu_workout": false,
+    "tengu_plan_mode_interview_phase": false,
+    "tengu_oboe": true,
+    "tengu_vinteuil_phrase": true,
+    "tengu_chomp_inflection": false,
+    "tengu_silver_lantern": false,
+    "tengu_copper_lantern": false,
+    "tengu_workout2": true,
+    "tengu_marble_lantern_disabled": false,
+    "tengu_quiet_fern": true,
+    "tengu_penguins_enabled": true,
+    "tengu_mcp_elicitation": false,
+    "tengu_snippet_save": false,
+    "tengu_bergotte_lantern": false,
+    "tengu_birthday_hat": false,
+    "tengu_fgts": false,
+    "tengu_mulberry_fog": false,
+    "tengu_amber_prism": false,
+    "tengu_moth_copse": false,
+    "tengu_worktree_mode": true,
+    "tengu_marble_sandcastle": true,
+    "tengu_birch_mist": true,
+    "tengu_slate_nexus": true,
+    "tengu_immediate_model_command": false,
+    "tengu_swann_brevity": "focused",
+    "tengu_tst_kx7": false,
+    "tengu_prompt_cache_1h_config": {
+      "allowlist": [
+        "repl_main_thread*",
+        "sdk",
+        "auto_mode"
+      ]
+    },
+    "tengu_crystal_beam": {
+      "budgetTokens": 0
+    },
+    "tengu_tool_input_aliasing": false,
+    "tengu_oak_drum": false,
+    "tengu_streaming_text": true,
+    "tengu_ccr_bridge": true,
+    "tengu_coral_whistle": false,
+    "tengu_tst_names_in_messages": false,
+    "tengu_pebble_leaf_prune": false,
+    "tengu_disable_streaming_to_non_streaming_fallback": false,
+    "tengu_penguins_off": null,
+    "tengu_frond_boric": {},
+    "tengu_quartz_falcon": null,
+    "tengu_quiet_hollow": true,
+    "tengu_grey_wool": true,
+    "tengu_marble_whisper": false,
+    "tengu_amber_quartz": false,
+    "tengu_cicada_nap_ms": 0,
+    "tengu_miraculo_the_bard": false,
+    "tengu_miraculo_the_bard2": false,
+    "tengu_granite_whisper": false,
+    "tengu_desktop_upsell": {
+      "enable_shortcut_tip": false,
+      "enable_startup_dialog": false
+    },
+    "tengu_turtle_carbon": true,
+    "tengu_grey_step2": {
+      "enabled": true,
+      "dialogTitle": "We recommend medium effort for Opus",
+      "dialogDescription": "Effort determines how long Claude thinks for when completing your task. We recommend medium effort for most tasks to balance speed and intelligence and maximize rate limits. Use ultrathink to trigger high effort when needed."
+    },
+    "tengu_glacier_2xr": false,
+    "tengu_basalt_3kr": false,
+    "tengu_swinburne_dune": false,
+    "tengu_summarize_tool_results": true,
+    "tengu_sotto_voce": true,
+    "tengu_destructive_command_warning": false,
+    "tengu_defer_all_bn4": false,
+    "tengu_tst_hint_m7r": false,
+    "tengu_tight_weave": true,
+    "tengu_auto_background_agents": false,
+    "tengu_herring_clock": false,
+    "tengu_auto_mode_config": {
+      "enabled": "disabled",
+      "twoStageClassifier": true
+    },
+    "tengu_kairos_cron": true,
+    "tengu_paper_halyard": false,
+    "tengu_satin_quoll": {},
+    "tengu_lean_cast": false,
+    "tengu_kairos_brief_config": {
+      "enable_slash_command": false
+    },
+    "tengu_toolref_defer_j8m": false,
+    "tengu_slate_ridge": true
+  },
+  "firstStartTime": "2025-10-30T12:27:30.986Z",
+  "userID": "e30273d1df3f008708650be7d8fea38eeac9a9ddaa4d3eb2c450d5e523cc6d24",
+  "sonnet45MigrationComplete": true,
+  "changelogLastFetched": 1773143371112,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.0.29",
+  "hasOpusPlanDefault": false,
+  "lastReleaseNotesSeen": "2.1.70",
+  "projects": {
+    "C:\\Users\\Windows": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "ignorePatterns": [],
+      "projectOnboardingSeenCount": 4,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastTotalWebSearchRequests": 0
+    },
+    "C:\\Windows\\System32": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 1,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": []
+    },
+    "C:/Users/Windows": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 26,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "reactVulnerabilityCache": {
+        "detected": false,
+        "package": null,
+        "packageName": null,
+        "version": null,
+        "packageManager": null
+      }
+    },
+    "C:/Windows/SystemApps/MicrosoftWindows.Client.CBS_cw5n1h2txyewy": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "reactVulnerabilityCache": {
+        "detected": false,
+        "package": null,
+        "packageName": null,
+        "version": null,
+        "packageManager": null
+      }
+    },
+    "C:/Users/Windows/OneDrive/Desktop/workweaver": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "reactVulnerabilityCache": {
+        "detected": false,
+        "package": null,
+        "packageName": null,
+        "version": null,
+        "packageManager": null
+      }
+    },
+    "D:\\Work Weaver": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "D:/Work Weaver": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {
+        "composio": {
+          "type": "stdio",
+          "command": "npx",
+          "args": [
+            "composio-mcp-server"
+          ],
+          "env": {
+            "COMPOSIO_API_KEY": "pe_live_d56d7c6d9dac96806742715e797fe8b115dc4685aa39811e989b8bc2bf803e49"
+          }
+        }
+      },
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "subscriptionNoticeCount": 0,
+  "hasAvailableSubscription": false,
+  "feedbackSurveyState": {
+    "lastShownTime": 1773132364043
+  },
+  "opus45MigrationComplete": true,
+  "lastPlanModeUse": 1772448487425,
+  "thinkingMigrationComplete": true,
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "hasUsedBackslashReturn": true,
+  "githubRepoPaths": {
+    "bitfoundry-ai/bit-foundry-confidential": [
+      "c:\\Users\\Windows\\OneDrive\\Desktop\\bit-foundry-confidential"
+    ],
+    "bitfoundry-ai/workweaver": [
+      "C:\\Users\\Windows\\OneDrive\\Desktop\\workweaver"
+    ]
+  },
+  "mcpServers": {
+    "web-search-prime": {
+      "type": "http",
+      "url": "https://api.z.ai/api/mcp/web_search_prime/mcp",
+      "headers": {
+        "Authorization": "Bearer 14cd479fc18b414ea43f60edc5ea81c2.42Tp7yT1dgPka0t9"
+      }
+    },
+    "web-reader": {
+      "type": "http",
+      "url": "https://api.z.ai/api/mcp/web_reader/mcp",
+      "headers": {
+        "Authorization": "Bearer 14cd479fc18b414ea43f60edc5ea81c2.42Tp7yT1dgPka0t9"
+      }
+    },
+    "zread": {
+      "type": "http",
+      "url": "https://api.z.ai/api/mcp/zread/mcp",
+      "headers": {
+        "Authorization": "Bearer 14cd479fc18b414ea43f60edc5ea81c2.42Tp7yT1dgPka0t9"
+      }
+    },
+    "zai-mcp-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@z_ai/mcp-server"
+      ],
+      "env": {
+        "Z_AI_API_KEY": "14cd479fc18b414ea43f60edc5ea81c2.42Tp7yT1dgPka0t9",
+        "Z_AI_MODE": "ZAI"
+      }
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--browser",
+        "chromium",
+        "--headless",
+        "--isolated",
+        "--caps=vision,pdf",
+        "--save-trace",
+        "--save-session",
+        "--console-level=warning",
+        "--snapshot-mode=full",
+        "--timeout-action=15000",
+        "--timeout-navigation=60000",
+        "--viewport-size=1920x1080",
+        "--ignore-https-errors",
+        "--output-dir=.factory/playwright-output",
+        "--grant-permissions=clipboard-read,clipboard-write"
+      ],
+      "env": {
+        "HEADLESS": "true",
+        "PLAYWRIGHT_BROWSERS_PATH": "0"
+      }
+    },
+    "aws-api": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-api-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "aws-documentation": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-documentation-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "aws-knowledge": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-knowledge-mcp-server@latest"
+      ],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "ecs": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.amazon-ecs-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "lambda-tool": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-lambda-tool-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "aurora-postgres": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aurora-postgres-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "elasticache": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.amazon-elasticache-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "cloudwatch": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.amazon-cloudwatch-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "iam": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-iam-mcp-server@latest"
+      ],
+      "env": {
+        "AWS_PROFILE": "workweaver-dev-admin",
+        "AWS_REGION": "me-central-1",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "linkedin-post": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "C:\\Users\\Windows\\linkedin-post-mcp\\server.py"
+      ]
+    },
+    "paper": {
+      "type": "http",
+      "url": "http://127.0.0.1:29979/mcp"
+    }
+  },
+  "opusProMigrationComplete": true,
+  "cachedChromeExtensionInstalled": false,
+  "clientDataCache": {
+    "data": {},
+    "timestamp": 1772841309060
+  },
+  "showSpinnerTree": false,
+  "sonnet1m45MigrationComplete": true,
+  "birthdayHatAnimationCount": 3,
+  "claudeCodeFirstTokenDate": "2026-02-24T09:55:55.480834Z",
+  "anonymousId": "claudecode.v1.df135132-bfef-47bc-948b-199513658e5b",
+  "cachedExtraUsageDisabledReason": "org_level_disabled",
+  "hasShownOpus46Notice": {
+    "296fc76a-f4ec-4b77-86b6-342810a5feca": true
+  },
+  "toolUsage": {
+    "Bash": {
+      "usageCount": 149,
+      "lastUsedAt": 1772200822724
+    },
+    "Read": {
+      "usageCount": 54,
+      "lastUsedAt": 1772200825337
+    },
+    "Edit": {
+      "usageCount": 19,
+      "lastUsedAt": 1772192594351
+    },
+    "Glob": {
+      "usageCount": 2,
+      "lastUsedAt": 1772097988058
+    },
+    "WebSearch": {
+      "usageCount": 45,
+      "lastUsedAt": 1772201887394
+    },
+    "WebFetch": {
+      "usageCount": 1,
+      "lastUsedAt": 1771942419852
+    },
+    "mcp__playwright__browser_install": {
+      "usageCount": 1,
+      "lastUsedAt": 1771942525587
+    },
+    "mcp__playwright__browser_navigate": {
+      "usageCount": 4,
+      "lastUsedAt": 1772099338471
+    },
+    "Write": {
+      "usageCount": 33,
+      "lastUsedAt": 1772202186516
+    },
+    "Grep": {
+      "usageCount": 4,
+      "lastUsedAt": 1772182786683
+    },
+    "TaskCreate": {
+      "usageCount": 1,
+      "lastUsedAt": 1772093390598
+    },
+    "TaskUpdate": {
+      "usageCount": 2,
+      "lastUsedAt": 1772097744229
+    },
+    "mcp__playwright__browser_take_screenshot": {
+      "usageCount": 1,
+      "lastUsedAt": 1772099260973
+    },
+    "Task": {
+      "usageCount": 10,
+      "lastUsedAt": 1772201980119
+    },
+    "mcp__playwright__browser_close": {
+      "usageCount": 1,
+      "lastUsedAt": 1772099692770
+    },
+    "TaskOutput": {
+      "usageCount": 9,
+      "lastUsedAt": 1772193101970
+    },
+    "TaskStop": {
+      "usageCount": 1,
+      "lastUsedAt": 1772100191849
+    }
+  },
+  "penguinModeOrgEnabled": false,
+  "hasVisitedExtraUsage": true,
+  "groveConfigCache": {
+    "93b02ece-8ab3-4014-b515-fe5e268cc63e": {
+      "grove_enabled": true,
+      "timestamp": 1773140131551
+    }
+  },
+  "s1mAccessCache": {
+    "296fc76a-f4ec-4b77-86b6-342810a5feca": {
+      "hasAccess": false,
+      "hasAccessNotAsDefault": false,
+      "timestamp": 1772590864195
+    }
+  },
+  "ideHintShownCount": 5,
+  "metricsStatusCache": {
+    "enabled": false,
+    "vcsAccountLinkingEnabled": false,
+    "timestamp": 1772840615342
+  },
+  "effortCalloutV2Dismissed": true,
+  "oauthAccount": {
+    "accountUuid": "93b02ece-8ab3-4014-b515-fe5e268cc63e",
+    "emailAddress": "aditya.koushik@bitfoundry.ai",
+    "organizationUuid": "296fc76a-f4ec-4b77-86b6-342810a5feca",
+    "hasExtraUsageEnabled": false,
+    "billingType": "stripe_subscription",
+    "accountCreatedAt": "2026-02-24T09:39:19.139292Z",
+    "subscriptionCreatedAt": "2026-02-24T09:44:34.359542Z",
+    "displayName": "Aditya Koushik",
+    "organizationRole": "admin",
+    "workspaceRole": null,
+    "organizationName": "aditya.koushik@bitfoundry.ai's Organization"
+  }
+}

@@ -1,0 +1,139 @@
+═══════════════════════════════════════════════════════════════════════════════
+  BIT FOUNDRY AI - SKILLS QUICK REFERENCE (47 Total Skills)
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTENT CREATION (8 SKILLS) - Led by Ved Vyasa
+───────────────────────────────────────────────────────────────────────────────
+  /triad_writer                      Hero/Sage/Sovereign archetypes
+  /hormozi_content_writer            Value equation & conversion hooks
+  /dan_koe_audience_builder          Community ownership & utility
+  /linkedin_post_generator_2026      LinkedIn algorithm optimization
+  /twitter_post_optimizer            Viral patterns & character limits
+  /content_formatter_linkedin        LinkedIn markdown formatting
+  /content_formatter_twitter         Twitter thread formatting
+  /ai_writing_humanizer              Authentic voice & personality
+
+RESEARCH & SIGNALS (5 SKILLS) - Led by Agastya
+───────────────────────────────────────────────────────────────────────────────
+  /web_search_agent                  Fact gathering & validation
+  /twitter_signal_monitor            Trend detection from influencers
+  /ai_industry_tracker               SOTA benchmarks & positions
+  /source_matrix                     Source credibility assessment
+  /signal_aggregator                 Meta-trend pattern detection
+
+ENHANCEMENT - THE SIX PHASES (6 SKILLS) - Led by Nakula & Council
+───────────────────────────────────────────────────────────────────────────────
+  /the_razor                         Phase 1: Signal vs. noise
+  /the_truth_engine                  Phase 2: Fact verification
+  /the_lateral_thinker               Phase 3: Analogies & patterns
+  /the_reality_os_destructor         Phase 4: First principles analysis
+  /the_strategist                    Phase 5: Strategic positioning
+  /the_operator                      Phase 6: Action planning
+
+REVIEW & QUALITY (2 SKILLS) - Led by Nakula
+───────────────────────────────────────────────────────────────────────────────
+  /content_reviewer_factchecker      Multi-dimensional QA & fact-check
+  /copy_editor                       Grammar, clarity & polish
+
+BUSINESS & STRATEGY (10 SKILLS) - Led by Strategic Council
+───────────────────────────────────────────────────────────────────────────────
+  /chanakya_business_strategist      Strategic positioning analysis
+  /hormozi_strategy_injector         Value injection into strategy
+  /council_dispatcher                Routes to strategic council
+  /value_equation                    Value/Price/Complexity optimization
+  /grand_slam_offer_architect        Comprehensive offer design
+  /business_analysis                 Market & business model analysis
+  /strategic_positioning             Market differentiation
+  /strategic_advisory                Wisdom-based counsel
+  /pattern_recognition               Cross-domain pattern identification
+  /wisdom_synthesis                  Insight synthesis
+
+ASSET CREATION (2 SKILLS) - Led by Vishwakarma
+───────────────────────────────────────────────────────────────────────────────
+  /notebooklm_operator               Infographics, slides, videos
+  /visual_asset_matcher              Asset-to-text semantic pairing
+
+INFRASTRUCTURE (3 SKILLS) - Led by Banasura & Krishna
+───────────────────────────────────────────────────────────────────────────────
+  /resourcefulness_agent             Feasibility & constraint checking
+  /execution_logger                  Metrics & execution tracking
+  /morning_brief_generator           Daily signal reports
+
+BRAINSTORMING (3 SKILLS) - Led by Dushyenta
+───────────────────────────────────────────────────────────────────────────────
+  /brainstorming_agent               Multi-angle ideation
+  /idea_generation                   Diverse idea generation
+  /creative_alternatives             Alternative solution development
+
+SPECIALIZED (7 SKILLS) - Distributed across agents
+───────────────────────────────────────────────────────────────────────────────
+  /concept_simplifier                Accessible explanations
+  /first_principles_thinking         Fundamental deconstruction
+  /mechanism_analysis                System mechanics analysis
+  /constraint_analysis               Constraint identification
+  /scope_modification                Scope optimization
+  /hybrid_social_media_scheduler     Cross-platform coordination
+  /publer_operator                   Publer integration
+
+LEGACY (1 SKILL) - Original implementation
+───────────────────────────────────────────────────────────────────────────────
+  /linkedin-content-creator          Original LinkedIn posting
+
+═══════════════════════════════════════════════════════════════════════════════
+
+AGENT ROSTER
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIMARY AGENTS (Content Pipeline)
+  • Ved Vyasa       (8 skills) - Storyteller, writer, formatter
+  • Agastya         (6 skills) - Researcher, signal detective
+  • Nakula          (3 skills) - Quality gatekeeper, fact-checker
+  • Vishwakarma     (2 skills) - Asset creator, designer
+  • Narada          (4 skills) - Publishing, distribution
+
+STRATEGIC COUNCIL
+  • Drona           (3 skills) - Value architect, offer design
+  • Vidur           (3 skills) - Master strategist
+  • Bhishma         (3 skills) - Wise counselor, patterns
+  • Karna           (3 skills) - First principles master
+
+SUPPORTING AGENTS
+  • Dushyenta       (4 skills) - Creative brainstormer
+  • Banasura        (3 skills) - Resourcefulness gate
+  • Krishna         (2 skills) - Master orchestrator
+
+═══════════════════════════════════════════════════════════════════════════════
+
+SKILL USAGE PATTERNS
+═══════════════════════════════════════════════════════════════════════════════
+
+Content Creation Flow:
+  [Raw Idea] → /web_search_agent → /triad_writer → /content_reviewer_factchecker
+  → /notebooklm_operator → /publer_operator → [Published]
+
+Business Decision Flow:
+  [Question] → /web_search_agent → /council_dispatcher → Strategic Council
+  → /wisdom_synthesis → [Decision]
+
+Enhancement Flow (Apply to any content):
+  [Draft] → /the_razor → /the_truth_engine → /the_lateral_thinker
+  → /the_reality_os_destructor → /the_strategist → /the_operator → [Enhanced]
+
+═══════════════════════════════════════════════════════════════════════════════
+
+QUICK COMMANDS
+═══════════════════════════════════════════════════════════════════════════════
+
+  /skills                            List all 47 skills
+  /[skill-name]                      Invoke specific skill
+  /loop [interval] /[skill]          Run skill on schedule
+
+CONFIGURATION FILES
+  ~/.claude/AGENT_SKILL_MAPPING.md   Full agent-to-skill registry
+  ~/.claude/SKILLS_QUICK_REFERENCE.txt   This file
+  ~/Work Weaver/claude.md             System configuration
+  ~/Work Weaver/SKILLS_SYSTEM_CONFIGURATION_COMPLETE.md   Setup details
+
+═══════════════════════════════════════════════════════════════════════════════
+
+LATEST UPDATE: 2026-03-12 | STATUS: ✅ PRODUCTION READY | SKILLS: 47/47

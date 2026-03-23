@@ -1,0 +1,22 @@
+{
+  "publer": {
+    "type": "stdio",
+    "command": "node",
+    "args": [
+      "C:\\Users\\Windows\\OneDrive\\Desktop\\Marketing\\publer-mcp\\src\\index.js"
+    ],
+    "env": {
+      "PUBLER_API_KEY": "475032d83188fa6f4e8610d4e9d2fe2363d45f41bcc06317"
+    }
+  },
+  "notebooklm": {
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "notebooklm-mcp@latest"]
+  },
+  "chrome-devtools": {
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "chrome-devtools-mcp@latest"]
+  }
+}

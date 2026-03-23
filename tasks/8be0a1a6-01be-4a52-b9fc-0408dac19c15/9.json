@@ -1,0 +1,9 @@
+{
+  "id": "9",
+  "subject": "Write Blog Post: Steam Engine Trap",
+  "description": "Write blog post on orchestration layer vs system of record.\n\nHook: Strong opening that challenges assumptions about AI adoption\n\nFrameworks: Steam engine analogy, SaaS as commodity, agent as durable interface\n\nStyle: Satya Nadella clarity + slippery slope\n\nLength: 1,000-1,200 words\n\nRules: NO em dashes, technical but accessible, include Commandcode.ai examples, CTA to workweaver.ai",
+  "activeForm": "Writing blog post on orchestration layer",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "5",
+  "subject": "Research & verify facts for Commandcode.ai content",
+  "description": "Research key facts for all 4 assets:\n1. IT service giants revenue/employee data (Infosys, Cognizant, Wipro)\n2. AI code review speed statistics\n3. Developer productivity numbers (lines of code per hour)\n4. Jack Dorsey/Square layoff verification\n5. Anthropic founder quotes on Indian IT\n\nUse web search for ground truth. Save findings to memory.",
+  "activeForm": "Researching facts for content verification",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

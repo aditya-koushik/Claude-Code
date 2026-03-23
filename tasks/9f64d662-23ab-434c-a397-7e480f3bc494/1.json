@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Phase 0: Create plugin workspace directory structure",
+  "description": "Create D:/Work Weaver/Plugins/ with merged/, custom/, and reference/ subdirectories. Copy CoWork originals to reference/.",
+  "activeForm": "Creating plugin workspace",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

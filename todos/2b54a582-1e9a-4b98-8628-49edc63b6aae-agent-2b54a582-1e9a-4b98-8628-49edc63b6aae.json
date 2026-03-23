@@ -1,0 +1,47 @@
+[
+  {
+    "content": "P0: Create folder structure for corporate governance",
+    "status": "completed",
+    "activeForm": "Creating corporate governance folder structure"
+  },
+  {
+    "content": "P1: Tax Validation Orchestrator",
+    "status": "completed",
+    "activeForm": "Executing P1 Tax Validation"
+  },
+  {
+    "content": "POEM: Research UAE substance requirements",
+    "status": "completed",
+    "activeForm": "Addressing POEM risk and substance requirements"
+  },
+  {
+    "content": "P2: IP & Domain Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P2 IP & Domain"
+  },
+  {
+    "content": "P3: Shareholders' Agreement Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P3 Shareholders' Agreement"
+  },
+  {
+    "content": "P4: Founder Contracts Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P4 Founder Contracts"
+  },
+  {
+    "content": "P5: India-Ajman MSA Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P5 India-Ajman MSA"
+  },
+  {
+    "content": "P6: Policies & Governance Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P6 Policies & Governance"
+  },
+  {
+    "content": "P7: Final Validation Orchestrator",
+    "status": "pending",
+    "activeForm": "Executing P7 Final Validation"
+  }
+]

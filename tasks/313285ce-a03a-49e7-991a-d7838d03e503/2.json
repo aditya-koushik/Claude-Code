@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "Clean up and push D:\\Work Weaver to OpenClaw_Krishna",
+  "description": "Update .gitignore to exclude audio/video/images/heavy files, commit pending changes, push to aditya-koushik/OpenClaw_Krishna",
+  "activeForm": "Updating OpenClaw_Krishna repo",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

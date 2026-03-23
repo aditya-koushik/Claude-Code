@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Explain pattern synthesis report purpose and production strategy",
+    "status": "completed",
+    "activeForm": "Explaining pattern synthesis report purpose"
+  },
+  {
+    "content": "Check current Phase1-consolidated-requirements.md",
+    "status": "in_progress",
+    "activeForm": "Checking Phase1 requirements file"
+  },
+  {
+    "content": "Review GitHub version from 27-Dec-2025",
+    "status": "pending",
+    "activeForm": "Reviewing GitHub history"
+  },
+  {
+    "content": "Identify opt-in feature vs other features to revert",
+    "status": "pending",
+    "activeForm": "Identifying features to keep/revert"
+  },
+  {
+    "content": "Update file locally (keep opt-in only, revert others)",
+    "status": "pending",
+    "activeForm": "Updating Phase1 requirements file"
+  },
+  {
+    "content": "Get user approval before committing",
+    "status": "pending",
+    "activeForm": "Getting user approval"
+  }
+]
